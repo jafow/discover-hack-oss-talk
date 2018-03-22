@@ -37,4 +37,6 @@ If you don't what can you do?
 
 *   use the awesome projects curated on github
 
-##
+## Find an entry point
+* start small
+
